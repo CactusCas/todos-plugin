@@ -15,8 +15,8 @@ import java.awt.image.BufferedImage;
 
 @Slf4j
 @PluginDescriptor(
-	name = "Tasks",
-	description = "Enable the Tasks panel",
+	name = "Todos",
+	description = "Enable the Todo's panel",
 	tags = {"panel"},
 	loadWhenOutdated = true
 )
