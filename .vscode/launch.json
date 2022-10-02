@@ -22,7 +22,7 @@
             "type": "java",
             "name": "Launch TodosPluginTest",
             "request": "launch",
-            "mainClass": "com.example.TodosPluginTest",
+            "mainClass": "com.todos.TodosPluginTest",
             "projectName": "todos"
         }
     ]
